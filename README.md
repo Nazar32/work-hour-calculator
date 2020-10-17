@@ -1,3 +1,5 @@
+![Deploy](https://github.com/Nazar32/work-hour-calculator/workflows/Deploy/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
