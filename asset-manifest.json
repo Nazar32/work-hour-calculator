@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bba2c004.chunk.css",
-    "main.js": "/static/js/main.f39f1710.chunk.js",
-    "main.js.map": "/static/js/main.f39f1710.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a17df252.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a17df252.js.map",
-    "static/css/2.455cd81f.chunk.css": "/static/css/2.455cd81f.chunk.css",
-    "static/js/2.2da71069.chunk.js": "/static/js/2.2da71069.chunk.js",
-    "static/js/2.2da71069.chunk.js.map": "/static/js/2.2da71069.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4eb3d3bdcdfc06a2f5fea09d13902d94.js": "/precache-manifest.4eb3d3bdcdfc06a2f5fea09d13902d94.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.455cd81f.chunk.css.map": "/static/css/2.455cd81f.chunk.css.map",
-    "static/css/main.bba2c004.chunk.css.map": "/static/css/main.bba2c004.chunk.css.map",
-    "static/js/2.2da71069.chunk.js.LICENSE.txt": "/static/js/2.2da71069.chunk.js.LICENSE.txt"
+    "main.css": "/work-hour-calculator/static/css/main.bba2c004.chunk.css",
+    "main.js": "/work-hour-calculator/static/js/main.2aa840fc.chunk.js",
+    "main.js.map": "/work-hour-calculator/static/js/main.2aa840fc.chunk.js.map",
+    "runtime-main.js": "/work-hour-calculator/static/js/runtime-main.25b8a1bb.js",
+    "runtime-main.js.map": "/work-hour-calculator/static/js/runtime-main.25b8a1bb.js.map",
+    "static/css/2.455cd81f.chunk.css": "/work-hour-calculator/static/css/2.455cd81f.chunk.css",
+    "static/js/2.2e97ec02.chunk.js": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js",
+    "static/js/2.2e97ec02.chunk.js.map": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js.map",
+    "index.html": "/work-hour-calculator/index.html",
+    "precache-manifest.848e31b8e921feac6868d432a6c0fc5a.js": "/work-hour-calculator/precache-manifest.848e31b8e921feac6868d432a6c0fc5a.js",
+    "service-worker.js": "/work-hour-calculator/service-worker.js",
+    "static/css/2.455cd81f.chunk.css.map": "/work-hour-calculator/static/css/2.455cd81f.chunk.css.map",
+    "static/css/main.bba2c004.chunk.css.map": "/work-hour-calculator/static/css/main.bba2c004.chunk.css.map",
+    "static/js/2.2e97ec02.chunk.js.LICENSE.txt": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a17df252.js",
+    "static/js/runtime-main.25b8a1bb.js",
     "static/css/2.455cd81f.chunk.css",
-    "static/js/2.2da71069.chunk.js",
+    "static/js/2.2e97ec02.chunk.js",
     "static/css/main.bba2c004.chunk.css",
-    "static/js/main.f39f1710.chunk.js"
+    "static/js/main.2aa840fc.chunk.js"
   ]
 }
