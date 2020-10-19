@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/work-hour-calculator/static/css/main.bba2c004.chunk.css",
-    "main.js": "/work-hour-calculator/static/js/main.2aa840fc.chunk.js",
-    "main.js.map": "/work-hour-calculator/static/js/main.2aa840fc.chunk.js.map",
+    "main.js": "/work-hour-calculator/static/js/main.a04826bf.chunk.js",
+    "main.js.map": "/work-hour-calculator/static/js/main.a04826bf.chunk.js.map",
     "runtime-main.js": "/work-hour-calculator/static/js/runtime-main.25b8a1bb.js",
     "runtime-main.js.map": "/work-hour-calculator/static/js/runtime-main.25b8a1bb.js.map",
     "static/css/2.455cd81f.chunk.css": "/work-hour-calculator/static/css/2.455cd81f.chunk.css",
     "static/js/2.2e97ec02.chunk.js": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js",
     "static/js/2.2e97ec02.chunk.js.map": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js.map",
     "index.html": "/work-hour-calculator/index.html",
-    "precache-manifest.848e31b8e921feac6868d432a6c0fc5a.js": "/work-hour-calculator/precache-manifest.848e31b8e921feac6868d432a6c0fc5a.js",
+    "precache-manifest.c8327ece8964673958691811d51dba2e.js": "/work-hour-calculator/precache-manifest.c8327ece8964673958691811d51dba2e.js",
     "service-worker.js": "/work-hour-calculator/service-worker.js",
     "static/css/2.455cd81f.chunk.css.map": "/work-hour-calculator/static/css/2.455cd81f.chunk.css.map",
     "static/css/main.bba2c004.chunk.css.map": "/work-hour-calculator/static/css/main.bba2c004.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.455cd81f.chunk.css",
     "static/js/2.2e97ec02.chunk.js",
     "static/css/main.bba2c004.chunk.css",
-    "static/js/main.2aa840fc.chunk.js"
+    "static/js/main.a04826bf.chunk.js"
   ]
 }

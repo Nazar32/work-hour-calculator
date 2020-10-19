@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf7f69e8acab9cbdc47ab5a15508d51e",
+    "revision": "ee63e077463983d57c5ee1447897e1ec",
     "url": "/work-hour-calculator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/work-hour-calculator/static/css/2.455cd81f.chunk.css"
   },
   {
-    "revision": "1ddf839a1e4905479d59",
+    "revision": "710216bab353d2492835",
     "url": "/work-hour-calculator/static/css/main.bba2c004.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/work-hour-calculator/static/js/2.2e97ec02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ddf839a1e4905479d59",
-    "url": "/work-hour-calculator/static/js/main.2aa840fc.chunk.js"
+    "revision": "710216bab353d2492835",
+    "url": "/work-hour-calculator/static/js/main.a04826bf.chunk.js"
   },
   {
     "revision": "ecc591a07b0a87cf7313",
