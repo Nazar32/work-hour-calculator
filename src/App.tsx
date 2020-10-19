@@ -6,7 +6,7 @@ import { WeekDaysEnum } from './enums/weekDays.enum';
 import { useLocalStorage } from './hooks/useLocalStorage';
 import { DateUtils } from './utils/Date';
 
-const DEFAULT_WORK_DAY_HOURS = 9;
+const DEFAULT_WORK_DAY_HOURS = 8;
 const DAY_OFF_SAVE_KEY = 'DAY_OFF';
 
 function App() {
