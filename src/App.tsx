@@ -18,11 +18,13 @@ function App() {
     initialDayOffs.map(d => new Date(d)),
   );
 
+  const [currentMonth, setCurrentMonth] = React.useState(new Date());
+
   function getWorkDaysCount(): number {
     let count = 0;
-    const currentDate = new Date().getDate();
+    const currentDate = currentMonth.getDate();
     for (let i = 1; i <= currentDate; i++) {
-      const date = new Date();
+      const date = new Date(currentMonth);
       date.setDate(i);
       if (
         [WeekDaysEnum.SATURDAY, WeekDaysEnum.SUNDAY].includes(date.getDay()) ||
@@ -39,13 +41,27 @@ function App() {
     saveDayOffs(dayOffs);
   }
 
+  function onMonthChange(month: Date) {
+    const currentDate = new Date();
+    if (month.getMonth() === currentDate.getMonth()) {
+      setCurrentMonth(currentDate);
+      return;
+    }
+    setCurrentMonth(new Date(month.getFullYear(), month.getMonth() + 1, 0));
+  }
+
   const workHoursInCurrentMonth = getWorkDaysCount() * DEFAULT_WORK_DAY_HOURS;
 
   return (
     <div className="app">
       <div className="content">
         <h2>Work hours in current month: {workHoursInCurrentMonth}</h2>
-        <DatePicker selectedDays={dayOffs} setSelectedDays={setDayOffs} />
+        <DatePicker
+          selectedDays={dayOffs}
+          setSelectedDays={setDayOffs}
+          month={currentMonth}
+          onMonthChange={onMonthChange}
+        />
         <button
           className="halfWidth endAlign"
           disabled={initialDayOffs.length === dayOffs.length}
